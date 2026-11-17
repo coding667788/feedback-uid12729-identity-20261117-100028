@@ -1,0 +1,3 @@
+Windows native Python 3.12. Runtime: D:/CC_Codex_FeedBack/runtimes/cc005-csv-python312/python.exe
+CPU only. Python standard library, SQLite, localhost and child processes are available.
+Task prompt: task/PROMPT.txt
